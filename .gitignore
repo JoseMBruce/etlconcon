@@ -1,0 +1,6 @@
+venv
+env
+credentials.json
+extract_players.log
+raw*.csv
+stg*.csv
